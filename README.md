@@ -1,5 +1,5 @@
 # Mastermind-Game
-An implementation of the Master Mind Game.
+An implementation of the Master Mind Game in MATLAB.
 
 Mastermind is the popular number guessing game. Person A picks a four-digit
 number, where any numeral is not repeated in more than one digit. Person B tries to
